@@ -2,4 +2,4 @@
 #324
 #Primer Parcial
 
-![texto](img/parcial.png)
+![texto](img/parcialpractica.png)
